@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @git-AnshikaSoni
+- 👀 I’m a TECH ENTHUSIAST
+- 🌱 I’m currently learning Web development and Programming
+- 💞️ I’m looking for internship
+- 📫 How to reach me email: anshikasoni909090@gmail.com
